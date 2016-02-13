@@ -16,7 +16,7 @@ h1
   color: #fc3d9c;
   -webkit-transform: rotate(-20deg);
   transform: rotate(-20deg);
-  margin-top: 50px;
+  /*margin-top: 50px;*/
   text-shadow: 1px 1px 8px black;
   margin-right: -50px;
 }
